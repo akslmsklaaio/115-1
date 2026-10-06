@@ -2,7 +2,7 @@
  int main()
  {
     int age;
-    printf("請輸入年齡:11");
+    printf("請輸入年齡:");
     scanf("%d",&age);
     if(age>=18)
     {
