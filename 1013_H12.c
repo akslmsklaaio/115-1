@@ -7,16 +7,16 @@ int main()
     switch(choice)
     {
         case 1:
-        printf("紅茶 30元");
+        printf("1. 紅茶 30元");
         break;
         case 2:
-        printf("綠茶 35元");
+        printf("2. 綠茶 35元");
         break;
         case 3:
-        printf("奶茶 50元");
+        printf("3. 奶茶 50元");
         break;
         case 4:
-        printf("果汁 45元");
+        printf("4. 果汁 45元");
         break;
         default:
         printf("無此飲料選項");
